@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonda</title>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="nickname">
+        <input type="text" id="">
+        <br>
+        <br>
+        <button onclick="()"></button>
+    </div>
+    <div hidden>
+    <center>
+        <table border="2">
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+            <tr>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+                <td width="50" height="50" bgcolor="black"><center><label id="botao"><button></button></label></center></td>
+            </tr>
+        </table>
+    </center>
+    </div>
+</body>
+</html>
